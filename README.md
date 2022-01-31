@@ -1,8 +1,8 @@
 # BNK Simple Editor (BNK SEditor)
 
 Is a tool for editing soundbank (*.bnk). It currently support:
--- Replace WEM (Impor)
--- Extract WEM (Export)
+- Replace WEM (Impor)
+- Extract WEM (Export)
 
 ## How to:
 1. Click ⋮ -> Open.
